@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.log
+.DS_Store
+.vscode/
+# vídeo original solto na raiz (a cópia usada pelo site está em public/video/hero.mp4)
+gemini_generated_video_*.mp4
